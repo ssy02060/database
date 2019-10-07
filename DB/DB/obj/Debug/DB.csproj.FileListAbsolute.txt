@@ -17,3 +17,13 @@ C:\Users\KMU_USER\Downloads\DB\DB\obj\Debug\DB.csprojResolveAssemblyReference.ca
 C:\Users\KMU_USER\Downloads\DB\DB\obj\Debug\DB.Form1.resources
 C:\Users\KMU_USER\Downloads\DB\DB\obj\Debug\DB.Properties.Resources.resources
 C:\Users\KMU_USER\Downloads\DB\DB\obj\Debug\DB.csproj.GenerateResource.Cache
+C:\Users\KMU_USER\Source\Repos\database\DB\DB\bin\Debug\DB.exe.config
+C:\Users\KMU_USER\Source\Repos\database\DB\DB\obj\Debug\DB.exe
+C:\Users\KMU_USER\Source\Repos\database\DB\DB\obj\Debug\DB.pdb
+C:\Users\KMU_USER\Source\Repos\database\DB\DB\bin\Debug\DB.exe
+C:\Users\KMU_USER\Source\Repos\database\DB\DB\bin\Debug\DB.pdb
+C:\Users\KMU_USER\Source\Repos\database\DB\DB\bin\Debug\Oracle.DataAccess.dll
+C:\Users\KMU_USER\Source\Repos\database\DB\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Users\KMU_USER\Source\Repos\database\DB\DB\obj\Debug\DB.Form1.resources
+C:\Users\KMU_USER\Source\Repos\database\DB\DB\obj\Debug\DB.Properties.Resources.resources
+C:\Users\KMU_USER\Source\Repos\database\DB\DB\obj\Debug\DB.csproj.GenerateResource.Cache

@@ -43,7 +43,9 @@ namespace DB
         {
             OracleDataReader rdr = oracleCommand1.ExecuteReader();
 
-            /*int result = Convert.ToInt32(oracleCommand1.ExecuteScalar());
+            /*
+             * ExcuteScalar 실습
+             * int result = Convert.ToInt32(oracleCommand1.ExecuteScalar());
             listBox1.Items.Add("전체 수 : " + result.ToString());
             listBox1.Items.Add("empno = 1의 이름: " + oracleCommand2.ExecuteScalar());
             */
